@@ -1,0 +1,41 @@
+
+.Header{
+background-color: #232F3E;
+padding: 10px;
+display: flex;
+align-items: center;
+gap: 15px;
+}
+.HeaderInputContainer{
+display: flex;
+flex-grow: 1;
+
+}
+.InputContainer{
+outline: none;    
+padding: 6px;
+margin-left: 10px;
+flex: 1;
+
+
+}
+.HeaderText{
+font-size: 14px;
+font-family: 500;
+color: white;
+
+}
+.Header-Bottom{
+    background-color: #123456;
+    padding: 5px;
+    height: 30px;
+    display: flex;
+    gap: 20px;
+   
+}
+
+
+.Header-BottomText{
+    color: white;
+    padding-top: 6px;
+}

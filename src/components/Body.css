@@ -1,0 +1,10 @@
+.Body{
+    background-color: #f0f0f0;
+    height: min-content;
+    
+}
+.Body-Item{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
